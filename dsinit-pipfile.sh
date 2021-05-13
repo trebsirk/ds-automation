@@ -6,3 +6,4 @@
 # if lines below don't work, try this: sudo pip install pipenv
 pipenv install
 pipenv check
+pipenv shell
