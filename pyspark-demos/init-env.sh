@@ -19,6 +19,6 @@ cd $proj_dir
 
 # if lines below don't work, try this: sudo pip install pipenv
 pipenv --python 3.9
-pipenv install numpy scipy requests flask jupyter pandas sklearn matplotlib
+pipenv install numpy scipy requests flask jupyter pandas sklearn matplotlib pyspark
 pipenv install pytest --dev
 #pipenv graph

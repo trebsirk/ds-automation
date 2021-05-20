@@ -6,6 +6,13 @@ name = "pypi"
 [packages]
 requests = "*"
 flask = "*"
+numpy = "*"
+scipy = "*"
+jupyter = "*"
+pandas = "*"
+sklearn = "*"
+matplotlib = "*"
+pyspark = "*"
 
 [dev-packages]
 pytest = "*"
